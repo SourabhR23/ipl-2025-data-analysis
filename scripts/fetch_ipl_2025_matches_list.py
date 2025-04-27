@@ -53,7 +53,7 @@ def process_match_list(series_info):
 
     return df_sorted
 
-def save_match_list(df, output_path="IPL_2025_Match_List.csv"):
+def save_match_list(df, output_path="../data/IPL_2025_Match_List.csv"):
     """Save the sorted match list to a CSV file."""
     df.to_csv(output_path, index=False)
     print(f"✅ Saved match list to {output_path}")
