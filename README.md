@@ -104,7 +104,7 @@ Parse and Process Data
 python scripts/parse_data.py
 ```
 
-🎯 Features
+## 🎯 Features
 \n 📈 Automated data extraction from APIs.
 
 🗂 Structured and clean DataFrames storage.
@@ -113,7 +113,8 @@ python scripts/parse_data.py
 
 🛠 Modular, scalable, and secure coding practices.
 
-🚀 Upcoming Work
+
+## 🚀 Upcoming Work
 🚀 Build interactive dashboards using Streamlit or Dash.
 
 🔥 Perform Machine Learning modeling on player performances (optional).
