@@ -1,0 +1,94 @@
+match_id,inning_name,fielder_id,fielder_name,catches,stumpings,runouts,bowled
+cacf2d34-41b8-41dd-91ed-5183d880084c,Kolkata Knight Riders Inning 1,e28de73b-f5df-49eb-bdf6-c50471319404,Jitesh Sharma,4,0,0,0
+cacf2d34-41b8-41dd-91ed-5183d880084c,Kolkata Knight Riders Inning 1,a1f7a1f3-f19c-43d2-bcd7-b4bae22f5842,Rasikh Dar Salam,1,0,0,0
+cacf2d34-41b8-41dd-91ed-5183d880084c,Kolkata Knight Riders Inning 1,81c09c1b-1b1d-4e87-9eaa-d7d0a89a6159,Krunal Pandya,0,0,0,2
+cacf2d34-41b8-41dd-91ed-5183d880084c,Kolkata Knight Riders Inning 1,2bf2258f-f35e-4831-884e-f88ef46968f5,Suyash Sharma,0,0,0,1
+cacf2d34-41b8-41dd-91ed-5183d880084c,Royal Challengers Bengaluru Inning 1,0284af4f-d4eb-4894-bacc-a468c1020951,Spencer Johnson,1,0,0,0
+cacf2d34-41b8-41dd-91ed-5183d880084c,Royal Challengers Bengaluru Inning 1,3187d301-269d-4823-b895-66d652ddefca,Ramandeep Singh ,1,0,0,0
+cacf2d34-41b8-41dd-91ed-5183d880084c,Royal Challengers Bengaluru Inning 1,11864f31-b766-4766-9cbc-5026015ace48,Rinku Singh,1,0,0,0
+91b007f3-c0af-493f-808a-3f4ae2d66e33,Sunrisers Hyderabad Inning 1,a254feed-0d7c-4f04-a2ab-7bf9ceef156b,Yashasvi Jaiswal,2,0,0,0
+91b007f3-c0af-493f-808a-3f4ae2d66e33,Sunrisers Hyderabad Inning 1,4269d64c-962d-4cd9-b2d2-1a62f51256b8,Shimron Hetmyer,1,0,0,0
+91b007f3-c0af-493f-808a-3f4ae2d66e33,Sunrisers Hyderabad Inning 1,b51bb4e5-acdf-423b-abb3-7a1e6694d2c2,Riyan Parag,2,0,0,0
+91b007f3-c0af-493f-808a-3f4ae2d66e33,Sunrisers Hyderabad Inning 1,19758cd7-4cce-47d8-b1fe-5975609de802,Jofra Archer,1,0,0,0
+91b007f3-c0af-493f-808a-3f4ae2d66e33,Rajasthan Royals Inning 1,c8299338-660f-4870-a9bc-57359242411c,Abhinav Manohar,2,0,0,0
+91b007f3-c0af-493f-808a-3f4ae2d66e33,Rajasthan Royals Inning 1,7d662361-8f12-4a52-9a4b-01e8734bd31d,Heinrich Klaasen,1,0,0,0
+91b007f3-c0af-493f-808a-3f4ae2d66e33,Rajasthan Royals Inning 1,13b3d56e-0fba-4d31-a174-d211211404e2,Pat Cummins,2,0,0,0
+91b007f3-c0af-493f-808a-3f4ae2d66e33,Rajasthan Royals Inning 1,9ae68636-48d9-488f-8adc-e62a19815d85,Ishan Kishan,1,0,0,0
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Mumbai Indians Inning 1,22ee45d8-0538-4e3e-a758-c515f9b86d11,Shivam Dube,2,0,0,0
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Mumbai Indians Inning 1,b6e7aa41-b0bb-4b0f-8f59-59f729283be5,MS Dhoni,0,1,0,0
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Mumbai Indians Inning 1,81b446e1-bfea-45a7-a15e-062b8157a323,Ravindra Jadeja,1,0,0,0
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Mumbai Indians Inning 1,50b70c71-1535-41c0-87fd-c12883105ede,Ruturaj Gaikwad,1,0,0,0
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Mumbai Indians Inning 1,8df6183b-1c95-46d2-85c0-e185792d03f1,Khaleel Ahmed,0,0,0,1
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Mumbai Indians Inning 1,3cbc5a08-62af-4ca5-b709-c7712db6e8b6,Noor Ahmad,0,0,0,1
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Mumbai Indians Inning 1,6731db45-8132-49c6-8fcb-f59258d15082,Nathan Ellis,0,0,0,0
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Chennai Super Kings Inning 1,a6686871-5bcd-4aae-8bfc-8298f878b6a9,Ryan Rickelton,1,0,0,0
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Chennai Super Kings Inning 1,c510fbe6-8a16-47e4-ab60-0965720241af,Will Jacks,1,0,0,1
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Chennai Super Kings Inning 1,aefd9074-da5a-408d-94f1-3be0e79d3b82,Tilak Varma,1,0,0,0
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Chennai Super Kings Inning 1,9f98de11-7764-4394-93e3-89f8c05ad378,Satyanarayana Raju,1,0,0,0
+208d68e5-3fab-4f3b-88e9-29ec4a02d3e2,Chennai Super Kings Inning 1,a6686871-5bcd-4aae-8bfc-8298f878b6a9,Ryan Rickelton,0,0,1,0
+c6e97609-d9c1-46eb-805a-e282b34f3bb1,Lucknow Super Giants Inning 1,bceb7084-1dda-4d76-b691-43c5a29d39a7,Mitchell Starc,1,0,0,2
+c6e97609-d9c1-46eb-805a-e282b34f3bb1,Lucknow Super Giants Inning 1,de19a93e-06df-4597-9186-7a53c1613552,Tristan Stubbs,2,0,0,0
+c6e97609-d9c1-46eb-805a-e282b34f3bb1,Lucknow Super Giants Inning 1,e5912efa-da10-4342-981c-f5ae32794672,Faf du Plessis,1,0,0,0
+c6e97609-d9c1-46eb-805a-e282b34f3bb1,Lucknow Super Giants Inning 1,8199e3da-acb4-4bac-ab02-47d7ca004ed2,Abishek Porel,0,0,1,0
+c6e97609-d9c1-46eb-805a-e282b34f3bb1,Lucknow Super Giants Inning 1,c4d4fc79-efb2-4e26-a575-94c6fc419bf9,Tripurana Vijay,1,0,0,0
+c6e97609-d9c1-46eb-805a-e282b34f3bb1,Delhi Capitals Inning 1,151d6979-05d3-4c1f-ae30-0e58af0e8613,Ayush Badoni,1,0,0,0
+c6e97609-d9c1-46eb-805a-e282b34f3bb1,Delhi Capitals Inning 1,2f50df2f-809d-44f9-b5be-ccb846515861,David Miller,1,0,0,0
+c6e97609-d9c1-46eb-805a-e282b34f3bb1,Delhi Capitals Inning 1,4e8ab9cd-c5af-430e-887b-d22bf74ad052,Nicholas Pooran,2,0,0,0
+c6e97609-d9c1-46eb-805a-e282b34f3bb1,Delhi Capitals Inning 1,a52b2d20-7c98-4238-9ba4-ec78419a5cc2,Rishabh Pant,2,0,0,0
+c6e97609-d9c1-46eb-805a-e282b34f3bb1,Delhi Capitals Inning 1,63075eff-1f66-4bf7-923f-5f92ee123283,Manimaran Siddharth,1,0,0,1
+c6e97609-d9c1-46eb-805a-e282b34f3bb1,Delhi Capitals Inning 1,a67a5fef-c1d6-4264-a6a6-c1984489bd36,Prince Yadav,0,0,1,0
+83d70527-5fc4-4fad-8dd2-b88b385f379e,Punjab Kings Inning 1,79f582a1-f5ab-4d30-8f5f-b05d4143608c,Sai Sudharsan,1,0,0,0
+83d70527-5fc4-4fad-8dd2-b88b385f379e,Punjab Kings Inning 1,09ca2fcc-1a5a-4f35-80f4-4ef9bc2b2f64,Arshad Khan,3,0,0,0
+83d70527-5fc4-4fad-8dd2-b88b385f379e,Punjab Kings Inning 1,7d6bbd6c-c5bb-4e1c-9374-aaa829e77611,Ravisrinivasan Sai Kishore,0,0,0,0
+83d70527-5fc4-4fad-8dd2-b88b385f379e,Gujarat Titans Inning 1,9d6cb002-6b9f-4795-a9bf-ea1a6e27ed08,Shashank Singh,1,0,0,0
+83d70527-5fc4-4fad-8dd2-b88b385f379e,Gujarat Titans Inning 1,4ff68cf3-d3a7-489f-bf37-4ac233f41a15,Priyansh Arya,1,0,0,0
+83d70527-5fc4-4fad-8dd2-b88b385f379e,Gujarat Titans Inning 1,607ff10c-5619-411d-a822-06ba28992230,Arshdeep Singh,0,0,1,0
+83d70527-5fc4-4fad-8dd2-b88b385f379e,Gujarat Titans Inning 1,d3c53885-7016-4228-8a20-1dd98214489d,Marco Jansen,0,0,0,1
+83d70527-5fc4-4fad-8dd2-b88b385f379e,Gujarat Titans Inning 1,607ff10c-5619-411d-a822-06ba28992230,Arshdeep Singh,0,0,0,1
+fd459f45-6e79-42c5-84e4-d046f291cacf,Rajasthan Royals Inning 1,225ae9ea-dba6-456d-a64b-2dbd7476c8f0,Harshit Rana,1,0,0,1
+fd459f45-6e79-42c5-84e4-d046f291cacf,Rajasthan Royals Inning 1,000f9f7c-cc24-4a85-8638-b013b0f4760e,Quinton de Kock,1,0,0,0
+fd459f45-6e79-42c5-84e4-d046f291cacf,Rajasthan Royals Inning 1,cdc2646c-1fe7-4bc2-b26e-42453f45a212,Ajinkya Rahane,1,0,0,0
+fd459f45-6e79-42c5-84e4-d046f291cacf,Rajasthan Royals Inning 1,effbb8f2-affa-4d18-93c5-285b243f88d0,Andre Russell,1,0,0,0
+fd459f45-6e79-42c5-84e4-d046f291cacf,Rajasthan Royals Inning 1,3c89df94-f39c-4c51-8e64-441c73c32c78,Angkrish Raghuvanshi,1,0,0,0
+fd459f45-6e79-42c5-84e4-d046f291cacf,Rajasthan Royals Inning 1,82de5824-b29b-4737-9e9d-44f5796ef227,Vaibhav Arora,0,0,0,1
+fd459f45-6e79-42c5-84e4-d046f291cacf,Rajasthan Royals Inning 1,9f06f450-c300-4b49-9359-7876f492f686,Moeen Ali,0,0,0,1
+fd459f45-6e79-42c5-84e4-d046f291cacf,Rajasthan Royals Inning 1,0284af4f-d4eb-4894-bacc-a468c1020951,Spencer Johnson,0,0,0,1
+fd459f45-6e79-42c5-84e4-d046f291cacf,Kolkata Knight Riders Inning 1,b51bb4e5-acdf-423b-abb3-7a1e6694d2c2,Riyan Parag,0,0,1,0
+fd459f45-6e79-42c5-84e4-d046f291cacf,Kolkata Knight Riders Inning 1,f3876b65-0643-49df-9255-4a06dd3fa051,Tushar Deshpande,1,0,0,0
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Lucknow Super Giants Inning 1,4e8ab9cd-c5af-430e-887b-d22bf74ad052,Nicholas Pooran,1,0,0,0
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Lucknow Super Giants Inning 1,a52b2d20-7c98-4238-9ba4-ec78419a5cc2,Rishabh Pant,1,0,0,0
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Lucknow Super Giants Inning 1,a67a5fef-c1d6-4264-a6a6-c1984489bd36,Prince Yadav,0,0,1,0
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Lucknow Super Giants Inning 1,2f50df2f-809d-44f9-b5be-ccb846515861,David Miller,1,0,0,0
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Lucknow Super Giants Inning 1,dd665f5d-04e8-436b-b376-8fd2a9b8bf8a,Abdul Samad,1,0,0,0
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Lucknow Super Giants Inning 1,93eaaabd-7529-44cb-a8c7-52acd30ea54e,Digvesh Rathi,1,0,0,0
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Lucknow Super Giants Inning 1,151d6979-05d3-4c1f-ae30-0e58af0e8613,Ayush Badoni,1,0,0,0
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Lucknow Super Giants Inning 1,a67a5fef-c1d6-4264-a6a6-c1984489bd36,Prince Yadav,0,0,0,1
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Lucknow Super Giants Inning 1,9a71201c-c377-45aa-a355-1af6d2c4bae3,Ravi Bishnoi,0,0,0,1
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Sunrisers Hyderabad Inning 1,5bf98798-b2b0-47d2-b799-5307c0fd4936,Nitish Kumar Reddy,1,0,0,0
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Sunrisers Hyderabad Inning 1,13b3d56e-0fba-4d31-a174-d211211404e2,Pat Cummins,1,0,0,0
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Sunrisers Hyderabad Inning 1,11d06633-aa20-469c-8fbb-676a1ae33eed,Mohammed Shami,1,0,0,0
+ab4e0813-1e78-467e-aca0-d80c5cfe7dbd,Sunrisers Hyderabad Inning 1,15bccb4f-8c3c-4da6-acd9-551782278bfd,Harshal Patel,1,0,0,0
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Royal Challengers Bengaluru Inning 1,b6e7aa41-b0bb-4b0f-8f59-59f729283be5,MS Dhoni,0,1,0,0
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Royal Challengers Bengaluru Inning 1,e6d28951-8524-43ca-95cf-9e73ae68bc12,Rachin Ravindra,1,0,0,0
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Royal Challengers Bengaluru Inning 1,50b70c71-1535-41c0-87fd-c12883105ede,Ruturaj Gaikwad,1,0,0,0
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Royal Challengers Bengaluru Inning 1,45613012-5c4f-4a7a-a1c4-d9827939b2bf,Sam Curran,1,0,0,0
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Royal Challengers Bengaluru Inning 1,81b446e1-bfea-45a7-a15e-062b8157a323,Ravindra Jadeja,1,0,0,0
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Royal Challengers Bengaluru Inning 1,47109b0d-51f0-4a49-931e-e31bf77e69f5,Deepak Hooda,1,0,0,0
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Royal Challengers Bengaluru Inning 1,3cbc5a08-62af-4ca5-b709-c7712db6e8b6,Noor Ahmad,0,0,0,1
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Chennai Super Kings Inning 1,6db25d60-ff96-4d8d-8d22-dedeeb5ffa29,Philip Salt,3,0,0,0
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Chennai Super Kings Inning 1,1989ac7c-a6cb-4171-bc83-16a2323d2fe8,Manoj Bhandage,1,0,0,0
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Chennai Super Kings Inning 1,e28de73b-f5df-49eb-bdf6-c50471319404,Jitesh Sharma,1,0,0,0
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Chennai Super Kings Inning 1,81c09c1b-1b1d-4e87-9eaa-d7d0a89a6159,Krunal Pandya,1,0,0,0
+7431523f-7ccb-4a4a-aed7-5c42fc08464c,Chennai Super Kings Inning 1,f061b5fc-cd70-480c-86aa-45c7828e739c,Yash Dayal,0,0,0,2
+f5ed540f-15c7-4189-a5d4-e54be746a522,Gujarat Titans Inning 1,71add5ac-55f9-4eb7-9e0c-d51208ae20c0,Naman Dhir,1,0,0,0
+f5ed540f-15c7-4189-a5d4-e54be746a522,Gujarat Titans Inning 1,a6686871-5bcd-4aae-8bfc-8298f878b6a9,Ryan Rickelton,1,0,0,0
+f5ed540f-15c7-4189-a5d4-e54be746a522,Gujarat Titans Inning 1,aefd9074-da5a-408d-94f1-3be0e79d3b82,Tilak Varma,1,0,0,0
+f5ed540f-15c7-4189-a5d4-e54be746a522,Gujarat Titans Inning 1,16ec245b-022d-4104-bd8f-ccc780428390,Mitchell Santner,1,0,0,0
+f5ed540f-15c7-4189-a5d4-e54be746a522,Gujarat Titans Inning 1,a90b2371-5c53-4c29-a382-9b52d40a7548,Hardik Pandya,0,0,1,0
+f5ed540f-15c7-4189-a5d4-e54be746a522,Gujarat Titans Inning 1,a90b2371-5c53-4c29-a382-9b52d40a7548,Hardik Pandya,1,0,0,0
+f5ed540f-15c7-4189-a5d4-e54be746a522,Gujarat Titans Inning 1,a6686871-5bcd-4aae-8bfc-8298f878b6a9,Ryan Rickelton,0,0,1,0
+f5ed540f-15c7-4189-a5d4-e54be746a522,Gujarat Titans Inning 1,6004fd3f-2264-470d-b39f-340d530b19b3,Trent Boult,0,0,0,0
+f5ed540f-15c7-4189-a5d4-e54be746a522,Mumbai Indians Inning 1,085d49b0-d5e5-4fc5-955b-39758a134545,Rahul Tewatia,1,0,0,0
+f5ed540f-15c7-4189-a5d4-e54be746a522,Mumbai Indians Inning 1,7263e990-a9e9-4829-8adf-760d18d1315c,Shubman Gill,1,0,0,0
+f5ed540f-15c7-4189-a5d4-e54be746a522,Mumbai Indians Inning 1,0c3d24bb-a517-435f-8cc3-60e945327bb3,Ishant Sharma,1,0,0,0
+f5ed540f-15c7-4189-a5d4-e54be746a522,Mumbai Indians Inning 1,2a8d8640-2213-4cf6-ac7e-309d8b733e96,Mohammed Siraj,1,0,0,2
