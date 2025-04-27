@@ -3,6 +3,11 @@
 Welcome to the **IPL 2025 Data Analysis** project!  
 This repository automates **daily match data fetching** from CricAPI, processes the JSON data into structured **DataFrames**, and enables deep **EDA (Exploratory Data Analysis)** on IPL 2025 matches.
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Status](https://img.shields.io/badge/Status-Ongoing-blue)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202025-orange)
+
 ---
 
 ## 📋 Project Overview
