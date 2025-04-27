@@ -50,3 +50,26 @@ ipl-2025-data-analysis/
 │
 ├── notebooks/
 │   ├── eda_ipl_2025.ipynb            # (Coming soon: Full visual EDA)
+
+
+## ⚡ Setup Instructions
+
+### 1. Clone this repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+
+2. Create a virtual environment (recommended)
+```bash
+Copy
+Edit
+python -m venv venv
+
+Activate the environment:
+Linux/Mac:
+
+```bash
+Copy
+Edit
+source venv/bin/activate
