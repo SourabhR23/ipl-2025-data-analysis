@@ -105,7 +105,7 @@ python scripts/parse_data.py
 ```
 
 ## 🎯 Features
-\n 📈 Automated data extraction from APIs.
+📈 Automated data extraction from APIs.
 
 🗂 Structured and clean DataFrames storage.
 
