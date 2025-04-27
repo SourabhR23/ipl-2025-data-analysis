@@ -64,15 +64,55 @@ cd your-repo-name
 ```
 ### 2. Create a virtual environment (recommended)
 ```bash
-Copy
-Edit
 python -m venv venv
 ```
 Activate the environment:
 Linux/Mac:
 
 ```bash
-Copy
-Edit
 source venv/bin/activate
 ```
+
+Windows:
+
+```bash
+venv\Scripts\activate
+```
+
+### 3. Install project dependencies
+```bash
+pip install -r requirements.txt
+```
+
+### 4. Configure environment variables
+Create a .env file in the project root.
+Add your API key like this:
+
+```plaintext
+API_KEY=your_actual_api_key_here
+✅ .env file should NOT be pushed to GitHub (make sure .gitignore contains .env).
+```
+
+📈 How to Use
+Fetch Data
+```bash
+python scripts/fetch_data.py
+```
+
+Parse and Process Data
+```bash
+python scripts/parse_data.py
+```
+
+🎯 Features
+📈 Automated data extraction from APIs.
+🗂 Structured and clean DataFrames storage.
+📊 Exploratory Data Analysis (EDA) on real-world datasets.
+🛠 Modular, scalable, and secure coding practices.
+
+🚀 Upcoming Work
+🚀 Build interactive dashboards using Streamlit or Dash.
+🔥 Perform Machine Learning modeling on player performances (optional).
+🤖 Automate daily data pulls using GitHub Actions or Cron Jobs (future scope).
+
+
