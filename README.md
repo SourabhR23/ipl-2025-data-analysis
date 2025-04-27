@@ -106,13 +106,18 @@ python scripts/parse_data.py
 
 🎯 Features
 📈 Automated data extraction from APIs.
+
 🗂 Structured and clean DataFrames storage.
+
 📊 Exploratory Data Analysis (EDA) on real-world datasets.
+
 🛠 Modular, scalable, and secure coding practices.
 
 🚀 Upcoming Work
 🚀 Build interactive dashboards using Streamlit or Dash.
+
 🔥 Perform Machine Learning modeling on player performances (optional).
+
 🤖 Automate daily data pulls using GitHub Actions or Cron Jobs (future scope).
 
 
